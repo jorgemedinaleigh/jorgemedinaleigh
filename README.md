@@ -2,9 +2,7 @@
 
 🇨🇱 Desarrollador de software enfocado en **aplicaciones de negocio** y **desarrollo de videojuegos**.  
 Actualmente trabajando y experimentando con tecnologías .NET, web y Unity.
-
 ---
-
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET" />
@@ -25,12 +23,10 @@ Actualmente trabajando y experimentando con tecnologías .NET, web y Unity.
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
-
 ---
-
 <table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="left" width="50%" style="border: none; padding: 0;">
+  <tr style="border: none; border-top: none;">
+    <td align="left" width="50%" style="border: none !important; padding: 0;">
       <h2>📫 Cómo contactarme</h2>
       <a href="mailto:jorgemedinaleigh@protonmail.com">
         <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" alt="Proton Mail" />
@@ -39,7 +35,7 @@ Actualmente trabajando y experimentando con tecnologías .NET, web y Unity.
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
       </a>
     </td>
-    <td align="center" width="50%" style="border: none; padding: 0;">
+    <td align="center" width="50%" style="border: none !important; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemedinaleigh&layout=compact&langs_count=8&hide_border=true&theme=catppuccin_mocha" alt="Top Langs" />
     </td>
   </tr>
