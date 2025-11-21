@@ -4,22 +4,23 @@
 Actualmente trabajando y experimentando con tecnologías .NET, web y Unity.
 
 ---
+## 🏷️ Tech stack & badges
 
-## 🧰 Lenguajes y tecnologías que uso
-
-### Lenguajes principales
-- 💻 C# (.NET, Unity)
-- 🌐 JavaScript (React, Vite)
-- 🧱 HTML
-- 🎮 ShaderLab / HLSL (sombras y efectos en Unity)
-- 📐 Mathematica (experimentos / prototipos)
-
-### Otras herramientas
-- 🗃️ Entity Framework / bases de datos
-- 🧩 Git & GitHub
-- ⚙️ Visual Studio / VS Code / Unity
-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
+
+## 📫 Cómo contactarme
+
+- Email: jorgemedinaleigh@protonmail.com
+- LinkedIn: https://www.linkedin.com/in/jorgemedinaleigh/
 
 ## 📊 Resumen de mi actividad en GitHub
 
