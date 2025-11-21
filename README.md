@@ -31,6 +31,5 @@ Actualmente trabajando y experimentando con tecnologías .NET, web y Unity.
 ---
 
 ## 📫 Cómo contactarme
-
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:jorgemedinaleigh@protonmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jorgemedinaleigh/)
