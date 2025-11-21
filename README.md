@@ -2,37 +2,49 @@
 
 🇨🇱 Desarrollador de software enfocado en **aplicaciones de negocio** y **desarrollo de videojuegos**.  
 Actualmente trabajando y experimentando con tecnologías .NET, web y Unity.
-<div align="center">
-  ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-  ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
-  [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-  [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000)
-  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-  [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-  [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-  [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
-  [![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)
-  [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-  [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
-  [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-</div>
-<div>
-  <div align="left">
-    ## 📫 Cómo contactarme
-    [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:jorgemedinaleigh@protonmail.com)
-    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jorgemedinaleigh/)
-  </div>
-  <div align="right">
-    <!-- Lenguajes más usados -->
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemedinaleigh&layout=compact&langs_count=8&hide_border=true&theme=catppuccin_mocha)
-  </div>
-</div>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white" alt="Unity" />
+  <a href="#"><img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+  <a href="#"><img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React Native" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <a href="#"><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff" alt="Expo" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js" /></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" alt="Microsoft SQL Server" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" /></a>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <h2>📫 Cómo contactarme</h2>
+      <a href="mailto:jorgemedinaleigh@protonmail.com">
+        <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" alt="Proton Mail" />
+      </a>
+      <a href="https://www.linkedin.com/in/jorgemedinaleigh/">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="right" width="50%">
+      <h2>📊 Lenguajes más usados</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemedinaleigh&layout=compact&langs_count=8&hide_border=true&theme=catppuccin_mocha" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 
 
