@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hola, soy Jorge Medina 👋
 
-<!--
-**jorgemedinaleigh/jorgemedinaleigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇨🇱 Desarrollador de software enfocado en **aplicaciones de negocio** y **desarrollo de videojuegos**.  
+Actualmente trabajando y experimentando con tecnologías .NET, web y Unity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Lenguajes y tecnologías que uso
+
+### Lenguajes principales
+- 💻 C# (.NET, Unity)
+- 🌐 JavaScript (React, Vite)
+- 🧱 HTML
+- 🎮 ShaderLab / HLSL (sombras y efectos en Unity)
+- 📐 Mathematica (experimentos / prototipos)
+
+### Otras herramientas
+- 🗃️ Entity Framework / bases de datos
+- 🧩 Git & GitHub
+- ⚙️ Visual Studio / VS Code / Unity
+
+---
+
+## 📊 Resumen de mi actividad en GitHub
+
+<!-- Stats generales -->
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgemedinaleigh&show_icons=true&hide_border=true)  
+
+<!-- Lenguajes más usados -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemedinaleigh&layout=compact&langs_count=8&hide_border=true)
+
+> Nota: estas tarjetas se generan con el proyecto
+> [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+> y muestran los lenguajes más usados según el código público. 
