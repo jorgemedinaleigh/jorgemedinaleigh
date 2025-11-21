@@ -24,11 +24,8 @@ Actualmente trabajando y experimentando con tecnologías .NET, web y Unity.
 ## 📊 Resumen de mi actividad en GitHub
 
 <!-- Stats generales -->
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgemedinaleigh&show_icons=true&hide_border=true)  
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgemedinaleigh&show_icons=true&hide_border=true&theme=catppuccin_mocha)  
 
 <!-- Lenguajes más usados -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemedinaleigh&layout=compact&langs_count=8&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemedinaleigh&layout=compact&langs_count=8&hide_border=true&theme=catppuccin_mocha)
 
-> Nota: estas tarjetas se generan con el proyecto
-> [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-> y muestran los lenguajes más usados según el código público. 
