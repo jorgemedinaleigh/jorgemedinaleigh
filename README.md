@@ -25,6 +25,15 @@
   Actualmente trabajando y experimentando con tecnologías .NET, web y Unity.  
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/jorgemedinaleigh">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jorgemedinaleigh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jorgemedinaleigh&layout=compact&langs_count=8&theme=algolia">
+  </a>
+</p>
+
 ### 📫 Cómo contactarme
 
 <p align="center">
@@ -35,15 +44,5 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
   </a>
 </p>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/jorgemedinaleigh">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jorgemedinaleigh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jorgemedinaleigh&layout=compact&langs_count=8&theme=algolia">
-  </a>
-</p>
-
 
 
