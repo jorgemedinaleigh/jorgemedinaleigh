@@ -22,7 +22,7 @@
 
 <p>
   🇨🇱 Desarrollador de software enfocado en aplicaciones de negocio y desarrollo de videojuegos.  
-  Actualmente trabajando y experimentando con tecnologías .NET, web y Unity.  
+  Actualmente trabajando y experimentando con tecnologías .NET, web y Unity, las badges de arriba son las cosas con las que he experimentado y/o trabajado formalmente
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
