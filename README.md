@@ -6,12 +6,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS" />
-  <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML" />
-  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON" />
-  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff" alt="Expo" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" alt="Microsoft SQL Server" />
@@ -25,8 +19,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="DeepSeek" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647" alt="Swagger" />
 </p>
 
 <p>
