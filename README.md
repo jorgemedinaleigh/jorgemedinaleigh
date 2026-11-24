@@ -31,7 +31,7 @@
 <p align="center">
   <a href="https://github.com/jorgemedinaleigh">
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=jorgemedinaleigh&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=algolia">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=jorgemedinaleigh&hide_title=true&langs_count=5&theme=algolia">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=jorgemedinaleigh&hide_title=true&langs_count=4&theme=algolia">
   </a>
 </p>
 
